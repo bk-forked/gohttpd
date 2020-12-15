@@ -6,6 +6,6 @@
 
 #### 2020.09.16
 * Forked from [netroby/gohttpd](https://github.com/netroby/gohttpd)
-* Upload the [Releases](https://github.com/bttb520/gohttpd/releases)
+* Upload the [Releases](https://github.com/bk-forked/gohttpd/releases)
 * Rename README.md to README_BAK.md
 * Create README.md
